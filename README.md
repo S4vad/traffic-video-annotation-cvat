@@ -5,7 +5,7 @@ This project demonstrates object and road feature annotation on traffic video da
 
 ## 📁 Files Included
 - `annotated_data.zip`: Exported annotations from CVAT.
-- `annotation_demo.mp4`: Screen recording showing annotation process and labeling.
+- [`annotation_demo.mp4`](https://drive.google.com/drive/folders/1dzhTByfQ_6UnoO4rIO46q9X7IJ8J3B2Z?usp=drive_link): Screen recording showing annotation process and labeling.
 - `README.md`: Project overview and instructions followed.
 
 ---
@@ -64,7 +64,9 @@ These shortcuts help speed up the annotation process significantly.
 
 
 ## 🔗 Notes
-CVAT does not export video with annotation overlays, so a screen recording (`annotation_demo.mp4`) was provided to demonstrate the visual annotations. Annotations are also exported as a `.zip` file for reuse or validation.
+> ⚠️ **Note:** CVAT does not export video with annotation overlays, so a screen recording is shared via [Google Drive](https://drive.google.com/drive/folders/1dzhTByfQ_6UnoO4rIO46q9X7IJ8J3B2Z?usp=drive_link) to demonstrate the visual annotations.  
+> Annotations are also exported as a `.zip` file for reuse or validation.
+
 
 ---
 
